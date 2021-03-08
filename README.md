@@ -5,4 +5,4 @@ Sometimes my projects need a (small) text editor
 to facilitate settings and config maintenance.
 
 _NOTE:
-winmet.txt and piccolo.glade go into /home/USER/.config/piccolo/_
+winmet.txt and piccolo.glade go into __/home/USER/.config/piccolo/__ directory_
